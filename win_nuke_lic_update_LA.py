@@ -1,6 +1,7 @@
 # When we updated our Nuke licenses The Foundry asked that we move from FLexLM to RLM.
 # This script deletes the old license file from Nuke's FlexLM directory and copies a new
 # one to the RLM directory on all render nodes. 
+# Written by Matt Carroll
 
 
 import os 
