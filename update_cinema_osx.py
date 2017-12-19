@@ -1,6 +1,7 @@
 # Munki has replaced the need for this script, but it should still be kept around for reference. 
 # This overwrites the license.ini file in the r17 directory to point to our "new" license server. 
 # If license.ini does not exist then the script will create it. 
+# Written by Matt Carroll
 
 import os
 
