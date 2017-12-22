@@ -1,4 +1,4 @@
-# I created a new deadline_repo for Deadline8. The nodes look for this repo using the 
+# I created a new deadline_repo for Deadline8. The windows nodes look for this repo using the 
 # deadline.ini file. This script removes the old file and replaces with updated version.
 # Written by Matt Carroll
 
