@@ -1,3 +1,7 @@
+# This removes all license files from the FLEXlm directory and copies a new file to the RLM directory for Nuke.
+# Must be run with elevated permissions. 
+# Written by Matt Carroll
+
 import os 
 import shutil
 
