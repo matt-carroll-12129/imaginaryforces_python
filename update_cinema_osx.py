@@ -12,3 +12,4 @@ o.write("server = license-awswest-1\n")
 o.write("port = 5235")
 o.close()
 
+# removed r16 as it is outdated 
