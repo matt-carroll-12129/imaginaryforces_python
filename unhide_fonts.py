@@ -7,7 +7,6 @@
 import os
 
 hidden_font_path = "/Users/matt.carroll/Desktop/Fonts/"
-
 for directname, directnames, files in os.walk(hidden_font_path):
     for file in files:
         # Split the file into the filename / extension
